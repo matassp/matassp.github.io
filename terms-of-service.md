@@ -1,6 +1,3 @@
----
-layout: none
----
 # Terms of Service for Radija
 
 **Last Updated:** October 27, 2025  
