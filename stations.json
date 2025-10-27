@@ -26,7 +26,7 @@
   {
     "id": "m-1",
     "name": "M-1",
-    "url": "https://stream-live.lrt.lt/radio_opus/lrt_opus.m3u8",
+    "url": "https://stream1.rc.lt/rc128.mp3",
     "image": "m1-logo",
     "rank": 1,
     "enabled": true
@@ -388,4 +388,5 @@
   }
 
 ]
+
 
