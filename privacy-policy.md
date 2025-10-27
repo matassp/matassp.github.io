@@ -1,6 +1,5 @@
 ---
-title: Privacy Policy
-layout: default
+layout: none
 ---
 **Last Updated: October 27, 2025**
 
