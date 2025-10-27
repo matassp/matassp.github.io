@@ -1,6 +1,8 @@
 ---
 layout: none
 ---
+# Privacy Policy for Radija
+
 **Last Updated: October 27, 2025**
 
 ## Introduction
