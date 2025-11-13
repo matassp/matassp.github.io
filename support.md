@@ -1,4 +1,4 @@
-# Radijas - Support
+# Radija - Support
 
 ## Contact Us
 
