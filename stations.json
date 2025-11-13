@@ -314,13 +314,6 @@
          "enabled":true
       },
       {
-         "id":"vaiku-radijas",
-         "name":"Vaikų radijas",
-         "url":"http://88.119.151.74:8001/vaikuradijas",
-         "image":"vaiku-radijas-logo",
-         "enabled":true
-      },
-      {
          "id":"vilnius-fm",
          "name":"Vilnius FM",
          "url":"https://stream.vilniusfm.lt/stream",
@@ -390,3 +383,4 @@
       }
    ]
 }
+
