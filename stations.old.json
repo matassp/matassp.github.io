@@ -1,0 +1,387 @@
+{
+   "version":"1.0",
+   "stations":[
+      {
+         "id":"lrt-radijas",
+         "name":"LRT Radijas",
+         "url":"https://stream-live.lrt.lt/radio_radijas/320k/lrt_radijas.m3u8",
+         "image":"lrt-radijas-logo-color",
+         "rank":5,
+         "enabled":true
+      },
+      {
+         "id":"lrt-klasika",
+         "name":"LRT Klasika",
+         "url":"https://stream-live.lrt.lt/radio_klasika/lrt_klasika.m3u8",
+         "image":"lrt-klasika-logo-color",
+         "rank":18,
+         "enabled":true
+      },
+      {
+         "id":"lrt-opus",
+         "name":"LRT Opus",
+         "url":"https://stream-live.lrt.lt/radio_opus/lrt_opus.m3u8",
+         "image":"lrt-opus-logo-color",
+         "rank":15,
+         "enabled":true
+      },
+      {
+         "id":"m-1",
+         "name":"M-1",
+         "url":"https://stream.m-1.fm/m1/aacp64",
+         "image":"m1-logo",
+         "rank":1,
+         "enabled":true
+      },
+      {
+         "id":"radiocentras",
+         "name":"Radiocentras",
+         "url":"https://stream1.rc.lt/rc128.mp3",
+         "image":"radiocentras-logo",
+         "rank":4,
+         "enabled":true
+      },
+      {
+         "id":"power-hit-radio",
+         "name":"Power Hit Radio",
+         "url":"https://stream.rcs.revma.com/f31w7e0fveuvv",
+         "image":"power-hit-radio-logo",
+         "rank":3,
+         "enabled":true
+      },
+      {
+         "id":"zip-fm",
+         "name":"Zip FM",
+         "url":"https://stream1.zipfm.lt/zipfm128.mp3",
+         "image":"zip-fm-logo",
+         "rank":8,
+         "enabled":true
+      },
+      {
+         "id":"zip-fm-is-kasetes",
+         "name":"Zip FM iš Kasetės",
+         "url":"https://klausyk.radijas.lt/listen/100hitu/live",
+         "image":"zip-fm-is-kasetes-logo",
+         "enabled":true
+      },
+      {
+         "id":"easy-fm",
+         "name":"Easy FM",
+         "url":"https://netradio.ziniur.lt/easyfm.mp3",
+         "image":"easy-fm-logo",
+         "rank":19,
+         "enabled":true
+      },
+      {
+         "id":"fred-film-radio-24",
+         "name":"Fred Film Radio 24",
+         "url":"https://s10.webradio-hosting.com/proxy/fredradiolt/stream",
+         "image":"fred-film-radio-24-logo",
+         "enabled":true
+      },
+      {
+         "id":"gold-fm",
+         "name":"Gold FM",
+         "url":"http://stream.goldfm.lt/goldfm.aac",
+         "image":"gold-fm-logo",
+         "rank":11,
+         "enabled":true
+      },
+      {
+         "id":"kapsai",
+         "name":"Kapsai",
+         "url":"http://91.211.246.42:8000/Kapsai-HD",
+         "image":"kapsai-logo",
+         "enabled":true
+      },
+      {
+         "id":"radio-laluna",
+         "name":"Radio Laluna",
+         "url":"https://radio.m-1.fm/laluna/mp3",
+         "image":"radio-laluna-logo",
+         "rank":14,
+         "enabled":true
+      },
+      {
+         "id":"m1-dance",
+         "name":"M-1 Dance",
+         "url":"https://radio.m-1.fm/m-1dance/aac",
+         "image":"m1-dance-logo",
+         "enabled":true
+      },
+      {
+         "id":"m1-plius",
+         "name":"M-1 Plius",
+         "url":"https://radio.m-1.fm/m1plius/aacp64",
+         "image":"m1-plius-logo",
+         "rank":7,
+         "enabled":true
+      },
+      {
+         "id":"mano-fm",
+         "name":"Mano FM",
+         "url":"http://stream.manofm.lt/listen?",
+         "image":"mano-fm-logo",
+         "rank":20,
+         "enabled":true
+      },
+      {
+         "id":"marijos-radijas",
+         "name":"Marijos Radijas",
+         "url":"http://stream.marijosradijas.lt:8001/marijosradijas.mp3",
+         "image":"marijos-radijas-logo",
+         "enabled":true
+      },
+      {
+         "id":"mazeikiai-fm",
+         "name":"Mažeikiai FM",
+         "url":"http://91.211.246.42:8000/Mazeikiai",
+         "image":"mazeikiai-fm-logo",
+         "enabled":true
+      },
+      {
+         "id":"mazeikiu-aidas",
+         "name":"Mažeikių Aidas",
+         "url":"http://maidas.kli.lt:8000/admin.mp3",
+         "image":"mazeikiu-aidas-logo",
+         "enabled":true
+      },
+      {
+         "id":"neringa-fm",
+         "name":"Neringa FM",
+         "url":"https://cast5.my-control-panel.com/proxy/mbadvent/neringafmnew",
+         "image":"neringa-fm-logo",
+         "enabled":true
+      },
+      {
+         "id":"palanga-street-radio",
+         "name":"Palanga Street Radio",
+         "url":"https://stream.palanga.live:8443/palanga128.mp3",
+         "image":"palanga-street-radio-logo",
+         "enabled":true
+      },
+      {
+         "id":"play-radio",
+         "name":"Play Radio",
+         "url":"http://n12.radiojar.com/d9cm273ystzuv?rj-ttl=5&rj-tok=AAABmeXD-Y8AD7D_05xZn_ov-A",
+         "image":"play-radio-logo",
+         "enabled":true
+      },
+      {
+         "id":"pmr",
+         "name":"PMR",
+         "url":"https://stream.pmr.lt/pmr.aac",
+         "image":"pmr-logo",
+         "enabled":true
+      },
+      {
+         "id":"pulsas",
+         "name":"Pulsas",
+         "url":"https://audio-edge-cmc51.fra.h.radiomast.io/56f301cf-9788-4407-a0db-0bfea5d82b01",
+         "image":"pulsas-logo",
+         "enabled":true
+      },
+      {
+         "id":"radijo-stotis-lietus",
+         "name":"Radijo Stotis Lietus",
+         "url":"https://radio.m-1.fm/LIETUS",
+         "image":"radijo-stotis-lietus-logo",
+         "rank":2,
+         "enabled":true
+      },
+      {
+         "id":"radio-fiesta",
+         "name":"Radio Fiesta",
+         "url":"https://stream2.radiofiesta.lt/rfs128.mp3",
+         "image":"radio-fiesta-logo",
+         "rank":22,
+         "enabled":true
+      },
+      {
+         "id":"radio-r",
+         "name":"RADIO R",
+         "url":"https://stream1.rusradio.lt/rrb128.mp3",
+         "image":"radio-r-logo",
+         "rank":10,
+         "enabled":true
+      },
+      {
+         "id":"radio-r-energy",
+         "name":"RADIO R Energy",
+         "url":"https://listen.radioking.com/radio/624415/stream/686599",
+         "image":"radio-r-energy-logo",
+         "enabled":true
+      },
+      {
+         "id":"relax-fm",
+         "name":"RELAX FM",
+         "url":"https://stream1.relaxfm.lt/relaxfm128.mp3",
+         "image":"relax-fm-logo",
+         "rank":6,
+         "enabled":true
+      },
+      {
+         "id":"relax-fm-100-hitu",
+         "name":"RELAX FM 100 Hitų",
+         "url":"https://klausyk.radijas.lt/listen/100hitu/live",
+         "image":"relax-fm-100-hitu-logo",
+         "enabled":true
+      },
+      {
+         "id":"relax-fm-sentimentai",
+         "name":"RELAX FM Sentimentai",
+         "url":"https://klausyk.radijas.lt/listen/sentimentai/live",
+         "image":"relax-fm-sentimentai-logo",
+         "enabled":true
+      },
+      {
+         "id":"rock-fm",
+         "name":"Rock FM",
+         "url":"https://stream2.rockfm.lt/crf128.mp3",
+         "image":"rock-fm-logo",
+         "rank":16,
+         "enabled":true
+      },
+      {
+         "id":"rock-radio",
+         "name":"Rock Radio",
+         "url":"http://65.21.202.84:8026/stream",
+         "image":"rock-radio-logo",
+         "enabled":true
+      },
+      {
+         "id":"saules-radijas",
+         "name":"Saules Radijas",
+         "url":"http://saule-aac.vinlita.lt:8000/stream.aac",
+         "image":"saules-radijas-logo",
+         "enabled":true
+      },
+      {
+         "id":"sol-fm",
+         "name":"Sol FM",
+         "url":"http://radiosolfm.bounceme.net:8002/solfm",
+         "image":"sol-fm-logo",
+         "enabled":true
+      },
+      {
+         "id":"start-fm",
+         "name":"Start FM 94.2",
+         "url":"http://eteris.startfm.lt/startfm.mp3",
+         "image":"start-fm-logo",
+         "enabled":true
+      },
+      {
+         "id":"super-fm",
+         "name":"Super FM",
+         "url":"http://82.140.131.217:8000/superfm.mp3",
+         "image":"super-fm-logo",
+         "rank":23,
+         "enabled":true
+      },
+      {
+         "id":"tau-radijas",
+         "name":"Tau Radijas",
+         "url":"http://radijas.tau.lt:8000/stream",
+         "image":"tau-radijas-logo",
+         "enabled":true
+      },
+      {
+         "id":"taurages-radijas",
+         "name":"Tauragės Radijas",
+         "url":"http://stream.tauragesradijas.lt:8000/tr1",
+         "image":"taurages-radijas-logo",
+         "enabled":true
+      },
+      {
+         "id":"tavo-balsas",
+         "name":"Tavo Balsas",
+         "url":"https://c18.radioboss.fm:8529/stream",
+         "image":"tavo-balsas-logo",
+         "enabled":true
+      },
+      {
+         "id":"top-fm",
+         "name":"Top FM",
+         "url":"https://radio.topfm.lt/listen/topfm/topfm-320",
+         "image":"top-fm-logo",
+         "enabled":true
+      },
+      {
+         "id":"upso-radijas",
+         "name":"Upso Radijas",
+         "url":"http://185.5.52.50:8000/upsas_320",
+         "image":"upso-radijas-logo",
+         "enabled":true
+      },
+      {
+         "id":"vilnius-fm",
+         "name":"Vilnius FM",
+         "url":"https://stream.vilniusfm.lt/stream",
+         "image":"vilnius-fm-logo",
+         "enabled":true
+      },
+      {
+         "id":"xfm-radijas",
+         "name":"XFM Radijas",
+         "url":"http://88.119.151.74:8001/xfm",
+         "image":"xfm-radijas-logo",
+         "enabled":true
+      },
+      {
+         "id":"ziniu-radijas",
+         "name":"Žinių Radijas",
+         "url":"http://netradio.ziniur.lt:8000/ziniur.mp3",
+         "image":"ziniu-radijas-logo",
+         "rank":9,
+         "enabled":true
+      },
+      {
+         "id":"pukas",
+         "name":"Pūkas",
+         "url":"http://212.95.45.82:8000/stream",
+         "image":"pukas-logo",
+         "rank":12,
+         "enabled":true
+      },
+      {
+         "id":"pukas-2",
+         "name":"Pūkas 2",
+         "url":"http://212.95.39.164:8074/stream",
+         "image":"pukas-logo",
+         "rank":21,
+         "enabled":true
+      },
+      {
+         "id":"power-gold",
+         "name":"Power Gold",
+         "url":"https://stream.powerhitradio.lt/PHR_GOLD_AAC",
+         "image":"power-gold-logo",
+         "enabled":true
+      },
+      {
+         "id":"beveik-radijas",
+         "name":"Beveik Radijas",
+         "url":"https://halo.streamerr.co/listen/beveikradijas/radio.mp3",
+         "image":"beveik-radijas-logo",
+         "enabled":true
+      },
+      {
+         "id":"european-hit-radio",
+         "name":"European Hit Radio",
+         "url":"https://stream.ehr.lt:8443/ehr",
+         "image":"european-hit-radio-logo",
+         "rank":13,
+         "enabled":true
+      },
+      {
+         "id":"geras-fm",
+         "name":"Geras FM",
+         "url":"https://stream.goldfm.lt/gerasfm.aac",
+         "image":"geras-fm-logo",
+         "rank":17,
+         "enabled":true
+      }
+   ]
+}
+
+
