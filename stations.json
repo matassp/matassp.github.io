@@ -17,6 +17,13 @@
          "enabled":true
       },
       {
+         "id":"palanga-street-radio",
+         "name":"Palanga Street Radio",
+         "url":"https://stream.palanga.live:8443/palanga128.mp3",
+         "image":"palanga-street-radio-logo",
+         "enabled":true
+      },
+      {
          "id":"play-radio",
          "name":"Play Radio",
          "url":"http://n12.radiojar.com/d9cm273ystzuv?rj-ttl=5&rj-tok=AAABmeXD-Y8AD7D_05xZn_ov-A",
@@ -72,7 +79,15 @@
          "image":"upso-radijas-logo",
          "enabled":true
       },
+      {
+         "id":"xfm-radijas",
+         "name":"XFM Radijas",
+         "url":"http://88.119.151.74:8001/xfm",
+         "image":"xfm-radijas-logo",
+         "enabled":true
+      },
    ]
 }
+
 
 
