@@ -46,14 +46,14 @@
       },
       {
          "id":"sol-fm",
-         "name":"Sol FM",
+         "name":"SOL FM",
          "url":"https://radiosolfm.bounceme.net/stream",
          "image":"sol-fm-logo",
          "enabled":true
       },
       {
          "id":"tau-radijas",
-         "name":"Tau Radijas",
+         "name":"Tau",
          "url":"http://radijas.tau.lt:8000/stream",
          "image":"tau-radijas-logo",
          "enabled":true
@@ -81,13 +81,14 @@
       },
       {
          "id":"xfm-radijas",
-         "name":"XFM Radijas",
+         "name":"XFM",
          "url":"http://88.119.151.74:8001/xfm",
          "image":"xfm-radijas-logo",
          "enabled":true
       },
    ]
 }
+
 
 
 
