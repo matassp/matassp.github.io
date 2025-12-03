@@ -86,8 +86,16 @@
          "image":"xfm-radijas-logo",
          "enabled":true
       },
+      {
+         "id":"beveik-radijas",
+         "name":"Beveik Radijas",
+         "url":"https://halo.streamerr.co/listen/beveikradijas/radio.mp3",
+         "image":"beveik-radijas-logo",
+         "enabled":true
+      },
    ]
 }
+
 
 
 
